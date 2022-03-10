@@ -4,9 +4,16 @@
         <title>KubeVela Blog</title>
         <link>https://kubevela.io/blog</link>
         <description>KubeVela Blog</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kubevela: 如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源]]></title>
+            <link>https://kubevela.io/zh/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code</link>
+            <guid>Kubevela: 如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[作者： Avery Qi （同济大学） 周正喜（阿里云)]]></description>
+        </item>
         <item>
             <title><![CDATA[KubeVela v1.2 发布：聚焦开发者体验，轻松发布你的多集群应用]]></title>
             <link>https://kubevela.io/zh/blog/2022/01/27/blog-1.2</link>

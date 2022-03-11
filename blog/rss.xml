@@ -8,11 +8,10 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Kubevela: Generate top 50 popular resources of AWS using 100 lines of code]]></title>
+            <title><![CDATA[Generate top 50 popular resources of AWS using 100 lines of code]]></title>
             <link>https://kubevela.io/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code</link>
-            <guid>Kubevela: Generate top 50 popular resources of AWS using 100 lines of code</guid>
+            <guid>Generate top 50 popular resources of AWS using 100 lines of code</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Author: Avery Qi (Tongji University) Zhengxi Zhou (Alibaba Cloud)]]></description>
         </item>
         <item>
             <title><![CDATA[KubeVela v1.2 - Focused on Developer Experience, Simplified Multi-Cluster Application Delivery]]></title>

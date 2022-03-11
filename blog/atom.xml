@@ -8,11 +8,10 @@
     <subtitle>KubeVela Blog</subtitle>
     <icon>https://kubevela.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Kubevela: Generate top 50 popular resources of AWS using 100 lines of code]]></title>
-        <id>Kubevela: Generate top 50 popular resources of AWS using 100 lines of code</id>
+        <title type="html"><![CDATA[Generate top 50 popular resources of AWS using 100 lines of code]]></title>
+        <id>Generate top 50 popular resources of AWS using 100 lines of code</id>
         <link href="https://kubevela.io/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code"/>
         <updated>2022-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Avery Qi (Tongji University) Zhengxi Zhou (Alibaba Cloud)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[KubeVela v1.2 - Focused on Developer Experience, Simplified Multi-Cluster Application Delivery]]></title>

@@ -8,11 +8,10 @@
     <subtitle>KubeVela Blog</subtitle>
     <icon>https://kubevela.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Kubevela: 如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源]]></title>
-        <id>Kubevela: 如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源</id>
+        <title type="html"><![CDATA[如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源]]></title>
+        <id>如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源</id>
         <link href="https://kubevela.io/zh/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code"/>
         <updated>2022-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[作者： Avery Qi （同济大学） 周正喜（阿里云)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[KubeVela v1.2 发布：聚焦开发者体验，轻松发布你的多集群应用]]></title>

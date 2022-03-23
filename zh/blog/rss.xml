@@ -4,9 +4,15 @@
         <title>KubeVela Blog</title>
         <link>https://kubevela.io/blog</link>
         <description>KubeVela Blog</description>
-        <lastBuildDate>Tue, 01 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[基于 KubeVela 的机器学习实践]]></title>
+            <link>https://kubevela.io/zh/blog/2022/03/02/kubevela-with-machine-learning</link>
+            <guid>基于 KubeVela 的机器学习实践</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[如何用 100 行代码快速引入 AWS 最受欢迎的 50 种云资源]]></title>
             <link>https://kubevela.io/zh/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code</link>
